@@ -1,0 +1,5 @@
+{
+  "name": "Resultados da Loteria",
+  "description": "Um aplicativo para exibir os resultados mais recentes dos sorteios da Loteria da Caixa. Escolha o tipo de loteria e o número do concurso para ver os detalhes, incluindo números sorteados, data, premiação e se acumulou.",
+  "requestFramePermissions": []
+}
